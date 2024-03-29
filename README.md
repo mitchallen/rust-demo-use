@@ -15,7 +15,7 @@ cargo run
 
 ```toml
 [dependencies]
-rust-lib-01 = { git = "https://github.com/mitchallen/rust-lib-01.git", tag = "v0.1.0" }
+rust-lib-01 = { git = "https://github.com/mitchallen/rust-lib-01.git", tag = "v0.1.2" }
 ```
 
 ## code
