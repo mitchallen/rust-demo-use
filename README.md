@@ -6,6 +6,14 @@ Demo how to use refer to a github package.
 ## Usage 
 
 ```sh
+make all
+```
+
+```sh
+make rub
+```
+
+```sh
 cargo run
 ```
 
