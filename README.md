@@ -10,7 +10,7 @@ make all
 ```
 
 ```sh
-make rub
+make run
 ```
 
 ```sh
