@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rust-lib-01 = { git = "https://github.com/mitchallen/rust-lib-01.git", tag = "v0.1.2" }
+rust-lib-01 = { git = "https://github.com/mitchallen/rust-lib-01.git", tag = "v0.1.3" }
