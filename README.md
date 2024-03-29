@@ -33,3 +33,8 @@ Example usage:
 ```rs
 let x = rust_lib_01::add(a, b);
 ```
+
+## References
+
+* https://www.tutorialspoint.com/rust/rust_modules.htm 
+
